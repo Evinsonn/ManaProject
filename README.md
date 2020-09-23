@@ -4,8 +4,20 @@ Public installer
 This game needs to have an XBox Controller.
 
 To Download this file, you can clic on CODE then Download zip.
+Some changes need to uninstall 0.16 manually.
+
+Version 0.17 :
+```
++ Add New Hero "Lea"
+  - Basic IA
+  - Press Start to play with an other player
+  - Press Select to swap between hero
++ Add new UI to target item
++ Some fix to adapt game for 2 characters
+```
 
 Version 0.16 :
+```
 + Add cross to chest or NPC
 + Change CoolDown
 + Add Message and sound when you receive Story item
@@ -21,3 +33,4 @@ Version 0.16 :
 + Active pause when quest is done
 + Fix text quest
 + Fix enemy hitbox
+```
