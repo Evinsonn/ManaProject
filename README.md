@@ -4,6 +4,21 @@ Public installer
 This game needs to have an XBox Controller.
 
 To Download this file, you can clic on CODE then Download zip.
+
+Version 0.18 :
+```
++ Add Grab skill to Alban
++ Add Heal skill to Lea
++ Add Ice Projectil to Lea
++ Add Green Monster animation
+
++ Change Sprites to Heroes with HeroesBuilder
++ Change Camera technologie
+
++ Fix Pause error
++ Fix inventory error
+```
+
 Some changes need to uninstall 0.16 manually.
 
 Version 0.17 :
