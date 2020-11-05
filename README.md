@@ -5,6 +5,16 @@ This game needs to have an XBox Controller.
 
 To Download this file, you can clic on CODE then Download zip.
 
+version 0.19
+```
++ Change sprite sheet  from HeroesBuilder
++ Add monsters
++ Add alternative attack
++ Upgrade monsters decisions
++ Add Dance at the end of mission
++ Game Over when 2 heroes are down
+```
+
 Version 0.18 :
 ```
 + Add Grab skill to Alban
