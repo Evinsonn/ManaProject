@@ -1,9 +1,28 @@
 # ManaProject
-Public installer
+Public installer of Domain Protectors
 
-This game needs to have an XBox Controller.
+version 0.20
+```
++ add release page
 
-To Download this file, you can clic on CODE then Download zip.
+Fix :
++ GameOver
++ Generic gamepad
+
+Add :
++ editor upgrades
++ scene manager/loading 
++ story mode starts and some tools (environnement, change scene, etc)
++ Regen Mana
++ UI icon instead name
++ Add Xp 
++ Alternative attack
++ Dance when succed quest
+
+Change :
++ Defensive skill is holding skill
+
+```
 
 version 0.19
 ```
