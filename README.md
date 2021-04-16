@@ -1,6 +1,21 @@
 # ManaProject
 Public installer of Domain Protectors
 
+version 0.21
+```
++ press start first scene
++ XP range and you stop to earn xp when hero is dead
++ Offensive and defensive skill can be focused. Defensive can be a trigger. In the futur, skill focus will have more impact with skill experience
++ add focus indicator
++ you can lock skill from ur teammate when you press L or R and associated skill
+
++ pad description in option menu
++ add title when you enter in new scene
++ confine camera 
+
++ installer was signed so it will be not blocked by some antivirus.
+```
+
 version 0.20
 ```
 + add release page
