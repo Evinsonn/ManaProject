@@ -1,6 +1,10 @@
 # ManaProject
 Public installer of Domain Protectors
 
+Follow this linke for futur version :
+https://github.com/Evinsonn/ManaProject/releases
+
+
 version 0.21
 ```
 + press start first scene
